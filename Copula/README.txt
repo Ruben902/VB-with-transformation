@@ -8,7 +8,7 @@ Below you can find a brief description for the main routine.
 
 These were written by Ruben Loaiza-Maya, and if you have any related questions email rloaizma@gmail.com.
 
-Ruben Loaiza-Maya. 
+Ruben Albeiro Loaiza-Maya. 
 12 November 2019.
 
 /*------------------------------  Important Scripts and Functions -------------------*/
